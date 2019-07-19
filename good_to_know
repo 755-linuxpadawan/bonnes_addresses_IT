@@ -3,6 +3,22 @@
 C'est de la bonne :D !!
 #******************************************************
 
+
+#-------------------Ansible and Salt--------------------
+https://galaxy.ansible.com/
+https://docs.ansible.com/ansible/latest/index.html
+
+#--
+
+https://www.saltstack.com/resources/community/
+
+#-------------------Proxy------------------------------
+#New proxy Generation
+https://www.envoyproxy.io/
+
+#Proxy dynamic
+https://traefik.io/
+
 #------------------Docker------------------------------
 https://docs.docker.com/get-started/
 https://training.play-with-docker.com/
